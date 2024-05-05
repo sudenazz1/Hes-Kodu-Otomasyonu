@@ -1,4 +1,4 @@
-![](https://github.com/sudenazz1/Hes_Kodu_Otomasyonu/blob/main/interface.png)
+![]([https://github.com/sudenazz1/Hes_Kodu_Otomasyonu/blob/main/interface.png](https://github.com/sudenazz1/Hes-Kodu-Otomasyonu/blob/main/interface.png))
 # Projenin adı
 
 ## Açıklama
