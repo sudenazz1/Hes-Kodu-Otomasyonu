@@ -1,5 +1,5 @@
 ![](https://github.com/sudenazz1/Hes-Kodu-Otomasyonu/blob/main/interface.png)
-# Projenin adı
+# Hes Kodu Otomasyonu
 
 ## Açıklama
 
@@ -9,7 +9,7 @@ Salgın hastalıkların yayılmasını kontrol altına almak için bireylerin ka
 
 #### İşletim Sistemi (OS):
 
-- Mac OS
+- Windows
 
 #### Entegre Geliştirme Ortamı (IDE):
 
@@ -55,7 +55,7 @@ Ardından, Django framework'ünü kurmak için Komut İstemcisini açın ve şu 
 - Projeyi klonlayın.
 
 ```bash
-    git clone 'LİNK'
+    git clone https://github.com/sudenazz1/Hes-Kodu-Otomasyonu.git
 ```
 
 - Ardından projeyi çalıştırıp sunucuyu başlatmak için dizine gidin ve şu komutu yazın:
